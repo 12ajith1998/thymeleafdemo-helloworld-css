@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: thymeleafdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ajith
+Implementation-Vendor-Id: com.luvv2code.springboot
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://spring.io/projects/spring-boot/thymeleafde
+ mo
+Created-By: Maven Integration for Eclipse
+
